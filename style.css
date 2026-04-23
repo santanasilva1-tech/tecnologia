@@ -22,4 +22,13 @@ a{
     display: block;
     margin: 20px auto;
 
+
+}
+
+img {
+    height: auto;
+    width: 40%;
+    max-width: 400px;
+    display: block;
+    margin: 20px auto;
 }
